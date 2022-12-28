@@ -1,5 +1,5 @@
-- Hi, I’m @mohsinn18
-- I’m currently learning python
+- Hi, I’m Mohsin
+- I’m currently learning python and I will be starting my cs degree in march
 - ig mohsinn18
 
 <!---
