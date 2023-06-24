@@ -1,5 +1,5 @@
 - Hi, I’m Mohsin
-- I’m currently learning c++  and I will be starting my cs degree in march
+- CS Student Year 1
 - ig mohsinn18
 
 <!---
