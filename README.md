@@ -1,5 +1,5 @@
 - Hi, I’m Mohsin
-- CS Student Year 1
+- CS Student Year 2
 - ig mohsinn18
 
 <!---
